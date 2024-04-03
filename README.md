@@ -4,6 +4,8 @@ vk data science internship test case - music rec system
 ## Задание
 ![image](https://github.com/maximborodai/vk_ds_test_case_music_recsys/assets/96576515/cffe81e3-ae32-4ec7-9d53-fb9d95c8c8b9)
 
+датасет: https://www.kaggle.com/competitions/kkbox-music-recommendation-challenge/data
+
 ## Лучший результат
 **Лучший результат - NDCG@20 = 0.7695093120340937, с помощью XGBClassifier**
 
