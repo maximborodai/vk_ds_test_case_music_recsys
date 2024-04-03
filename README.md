@@ -1,5 +1,5 @@
 # vk_ds_test_case_music_recsys
-Тестовое задание для DS-стажировки в VK - рекомендательная система (музыка)
+Тестовое задание для DS-стажировки в VK - рекомендательная система треков релевантных для пользователя
 
 ## Задание
 ![image](https://github.com/maximborodai/vk_ds_test_case_music_recsys/assets/96576515/cffe81e3-ae32-4ec7-9d53-fb9d95c8c8b9)
